@@ -5,7 +5,7 @@
 <ul>
 <li>SGDB PostgreSQL, versão 9</li>
 <li>Java Development Kit (JDK), versão 8.</li>
-<li>JNetbeans IDE versão 8.2</li>
+<li>Netbeans IDE versão 8.2</li>
 <li>Repositório do Spring Data JPA, versão 2.0.5</li>
 
 </ul>
