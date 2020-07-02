@@ -3,14 +3,10 @@
 <p>Projeto desenvolvido para aprimorar as habilidades em Java e Spring Data Jpa.</p>
 <h2>As Tecnologias utilizadas</h2>
 <ul>
-<li><a href="https://nodejs.org/">Node.js</a></li>
-<li><a href="https://www.javascript.com/">JavaScript</a></li>
-<li><a href="https://www.npmjs.com/package/sqlite3">SqLite</a></li>
-<li><a href="https://expressjs.com/pt-br/">Express</a></li>
-<li><a href="https://pt-br.reactjs.org/">React</a></li>
-<li>Cors</li>
-<li><a href="https://www.npmjs.com/package/nodemon">Nodemon</a></li>
-<li><a href="https://insomnia.rest/">Insomnia</a></li>
+<li>SGDB PostgreSQL, versão 9</li>
+<li>Java Development Kit (JDK), versão 8.</li>
+<li>JNetbeans IDE versão 8.2</li>
+<li>Repositório do Spring Data JPA, versão 2.0.5</li>
 
 </ul>
 <h2>Atividades realizadas:</h2>
