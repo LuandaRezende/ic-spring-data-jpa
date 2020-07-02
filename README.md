@@ -21,5 +21,7 @@
 <li>Construção de transações CRUD com o Spring Data JPA</li>
 </ul>
 <h2>Caso de uso utilizado:</h2>
+<p align="center"><img src="https://github.com/LuandaRezende/construcao-verde/"></p>
+
 
 
