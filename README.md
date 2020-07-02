@@ -1,6 +1,6 @@
 # Aplicação CRUD com Spring Data JPA 
 <h2>Sobre o projeto</h2>
-<p>Projeto desenvolvido para aprimorar as habilidades em Java e Spring Data Jpa.</p>
+<p>Projeto desenvolvido na Iniciação Científica para aprimorar as habilidades em Java e Spring Data Jpa.</p>
 <h2>As Tecnologias utilizadas</h2>
 <ul>
 <li>SGDB PostgreSQL, versão 9</li>
